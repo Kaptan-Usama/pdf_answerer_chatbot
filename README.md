@@ -1,5 +1,5 @@
 # PDF Question Answerer 📄
-
+![Banner](pdf_answerer.jpg)
 ## Overview
 PDF Question Answerer is a Python-based tool that uses the power of OpenAI's GPT-3 model to answer questions about the content of PDF files. It merges all PDF files in a specified folder into one file, extracts the text, and uses GPT-3 to generate answers to user-inputted questions.
 
