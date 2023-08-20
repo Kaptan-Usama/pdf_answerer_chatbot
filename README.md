@@ -9,7 +9,7 @@ PDF Question Answerer is a Python-based tool that uses the power of OpenAI's GPT
 3. The tool will merge all PDFs into one file.
 4. Ask a question related to the content.
 5. Get an automatically generated answer!
-
+ 
 ## Requirements
 - Python 3.x
 - Streamlit
