@@ -34,4 +34,8 @@ streamlit run pdf_answerer.py
 The accuracy of the answers depends on the quality of the text extraction from the PDF and the performance of the GPT-3 model. Also, remember to keep your OpenAI API key secure and not share it with others.
 
 ## License
-This project is Open Sourse.
+
+Copyright (c) 2023 Muhammad Usama
+
+Permission is granted to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of this software. See the LICENSE file for more details.
+
